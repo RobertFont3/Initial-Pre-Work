@@ -1,0 +1,11 @@
+<!--learned how to use css to edit the background of just the form to green. Also, when creating a refference to a tag, instead of a . I am to use #-->
+
+
+<style>
+#cat-photo-form {
+    background-color: green;
+  }
+  </style>
+
+
+  <form action="/submit-cat-photo" id="cat-photo-form">

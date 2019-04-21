@@ -1,0 +1,21 @@
+<!--learned how to import a font from google and where to place the link for refferencing in my code. I was also able to keep the red text with the class tag in the h2 element.-->
+
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<style>
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  h2 {
+    font-family: Lobster;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>

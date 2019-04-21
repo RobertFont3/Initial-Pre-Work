@@ -1,0 +1,11 @@
+<!--learned that with css, changes made to multiple elements can be changed much more quickly than if one had to go through and change each element individually
+using html. I dont like when the curvy brackets are all over the place and the way I have it here seems much more streamlined. I have wondered why I keep seeing
+the curvy brackets above and below the affected elements-->
+
+
+<style>
+  .red-text
+  {color: red;}
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>

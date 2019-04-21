@@ -1,0 +1,17 @@
+<!--This was a good review of making css and html elemts from scratch and discovered that the more specific instruction will take over.
+Thats why the text will be pink.-->
+
+
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+.pink-text{
+  color: pink;
+}
+
+</style>
+<h1 class= "pink-text">Hello World!</h1>

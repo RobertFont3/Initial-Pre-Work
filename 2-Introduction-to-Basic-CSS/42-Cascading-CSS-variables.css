@@ -1,0 +1,8 @@
+<!--learned that putting an element into the root section can make the element available throughout the your document instead of being limited to a single element.-->
+
+:root {
+
+   /* add code below */
+   --penguin-belly: pink;
+   /* add code above */
+ }

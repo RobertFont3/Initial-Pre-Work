@@ -1,0 +1,10 @@
+<!--learned how to control different aspects of padding with individual specs.-->
+
+.blue-box {
+   background-color: blue;
+   color: #fff;
+   padding-top: 40px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   padding-left: 40px;
+ }

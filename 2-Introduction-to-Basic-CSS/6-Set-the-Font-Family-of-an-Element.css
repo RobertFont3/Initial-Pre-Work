@@ -1,0 +1,17 @@
+<!--Learned how to change all fonts working with the p element using the style element and discovered that it will cooperate with the class tag to keep color changes.-->
+
+
+<style>
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-family: monospace;
+    font-size: 16px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">

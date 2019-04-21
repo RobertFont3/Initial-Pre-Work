@@ -1,0 +1,9 @@
+<!--Clockwise rotation reffers to the direction relative to the rotation of the corresponding values being top right bottom left and do not require
+typing out the margin-direction elements-->
+
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 40px 20px 20px 40px;
+}

@@ -1,0 +1,8 @@
+<!--Learned that one can override a root element by placing the variable inside of the desired element you want to change.-->
+
+
+.penguin {
+
+   /* add code below */
+   --penguin-belly: white;
+   /* add code above */

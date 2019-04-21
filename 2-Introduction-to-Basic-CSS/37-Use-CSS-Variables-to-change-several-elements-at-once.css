@@ -1,0 +1,12 @@
+<!--used CSS variables to change the look of a penguin. And as a side note, html recognizes the spelling of "gray" AND "grey" and only
+in regards to color recognition. Html does not compensate for spelling when someones code needs to recognize a link.-->
+
+
+<style>
+  .penguin {
+
+    /* change code below */
+    --penguin-skin: gray;
+    --penguin-belly: white;
+    --penguin-beak: orange;
+    /* change code above */

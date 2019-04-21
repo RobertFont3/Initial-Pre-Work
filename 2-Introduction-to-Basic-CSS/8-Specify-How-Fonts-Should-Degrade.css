@@ -1,0 +1,22 @@
+<!--learned how to remove a google link to test font degradation and that google fonts are not case sensitive as they are already key words.
+I also was made aware of the proper way to use any font with two words as they require quotations.-->
+
+
+<!--<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">-->
+
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>

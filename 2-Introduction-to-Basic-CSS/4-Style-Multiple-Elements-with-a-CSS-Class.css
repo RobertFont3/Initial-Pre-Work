@@ -1,0 +1,10 @@
+<!--Practiced changing multiple elements by refferencing the child elements within the parent style element. I also noticed that the style does not override the <a href> element to change the color of the available link.-->
+
+
+<style>
+  .red-text {color: red;}
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a></p>

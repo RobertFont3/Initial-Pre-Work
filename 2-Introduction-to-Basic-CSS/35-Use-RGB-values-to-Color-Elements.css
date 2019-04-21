@@ -1,0 +1,8 @@
+<!--utilized the rgb element to change the colors using 3 seperate numbers from 0-255.-->
+
+
+<style>
+  body {
+    background-color: rgb(0,0,0)
+  }
+</style>

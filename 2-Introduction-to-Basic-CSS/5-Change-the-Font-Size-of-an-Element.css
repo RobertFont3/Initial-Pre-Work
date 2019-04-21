@@ -1,0 +1,18 @@
+<!--Learned how to add to the style section and change the size of the font.-->
+
+
+
+<style>
+  .red-text {
+    color: red;
+  }
+  p {
+    font-size: 16px;
+      }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>

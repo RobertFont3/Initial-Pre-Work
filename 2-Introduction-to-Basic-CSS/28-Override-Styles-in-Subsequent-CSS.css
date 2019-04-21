@@ -1,0 +1,16 @@
+<!--Learned that the order of elements in the style section are what matter it is the order in the class element. As blue was declared second it overrides pink.-->
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text{
+    color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

@@ -1,0 +1,13 @@
+<!--this code provides a great example of both absolute and relative units. The absolute units expressed with px are an actual measurement of the screen.
+Whereas, the measurement of "em" is dependant on the measurement of the elements font. Change an h elemnt within the box and the box will size itself accordingly.-->
+
+
+
+
+
+
+  .red-box {
+    background-color: red;
+    margin: 20px 40px 20px 40px;
+    padding: 1.5em
+  }

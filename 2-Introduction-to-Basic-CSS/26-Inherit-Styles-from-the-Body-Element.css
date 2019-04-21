@@ -1,0 +1,14 @@
+<!--Learned that body elements can be inhereted when defined in the style section. In this case, the color green
+will be inhereted by the text in h1-->
+
+
+
+
+<style>
+  body {
+    color: green; font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>

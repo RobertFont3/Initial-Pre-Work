@@ -1,0 +1,6 @@
+<!--when increasing the margin, one is increasing the space between an elements border and the surrounding elements.-->
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
