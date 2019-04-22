@@ -1,0 +1,25 @@
+//For some reason I couldnt get the test to work when referrencing individual names so got help from code accadamy to refresh on utilizing the array
+
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
+  // Only change code below this line
+  if (strokes == 1){
+    return names[0];
+  } else if (strokes <= par-2) {
+    return names[1];
+  } else if (strokes == par-1) {
+    return names[2];
+  } else if (strokes == par) {
+    return names [3];
+  } else if (strokes == par + 1) {
+    return names [4];
+  } else if (strokes == par + 2) {
+    return names [5];
+  } else if (strokes >= par +3) { //should use else {return names[6]} but i wanted to test out if this would stop anything
+    return names [6] 
+  }
+
+}
+
+// Change these values to test
+golfScore(5, 4);
