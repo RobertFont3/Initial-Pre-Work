@@ -1,0 +1,4 @@
+/*limited size of columns using minmax inside of repeat to ensure that all columns are min 90px and max 1fr*/
+
+
+grid-template-columns: repeat(3, minmax (90px, 1fr));

@@ -1,0 +1,4 @@
+/*used the repeat function to determine multiple values without having to enter them over and over*/
+
+grid-template-columns: repeat(3, 1fr);
+/*this translates to grid-template-columns: 1fr 1fr 1fr;*/
